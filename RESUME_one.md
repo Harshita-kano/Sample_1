@@ -41,4 +41,16 @@ Made a major Project on Hotel Management
 Made a major Project on Movie Booking 
 Made a arduino-uno Based Robotic Car
 
+Achievements
+Won 1st place in C++ coding at Code Execution Championship 2025
+Won titles at ode Execution Championship in Java,Python from 2021-2024
+Reached the Final Level of Avishkar Research Convention 
+Won Multiple medals in taekwondo competitions at state level and university level 
+Won a Participation certificate for participating in university organised competition : UDAN
+ Won Multiple titles for dancing competitions 
+Got Recognition by College for  my work as an Assistant Cultural Leader  
+Won a title in Generative AI Applications demonstration Competition
+Certificate for CMCA Course completion in Active citizenship 
+Won at various multi level competitions 
+
 
